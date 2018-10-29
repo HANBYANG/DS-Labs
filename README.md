@@ -1,2 +1,2 @@
-# DS-Labs
-Distributed system in SJTU
+# DSlabs
+Distributed System Labs in SJTU
